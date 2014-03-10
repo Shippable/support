@@ -23,4 +23,5 @@ We will update the issue with these tags as the bug goes through our process -
 There might be times when we cannot address some issues, either due to technical limitations or if the scenario requested gets too specific to one customer. In these cases, we will mark the bug as -
 * 'by design' if the behavior described in the bug is as designed.
 * 'wont fix' if we cannot address the issue due to some reason.
+
 In both these cases, we will provide you with an explanation of why we reached this decision.
