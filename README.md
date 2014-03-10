@@ -8,7 +8,7 @@ Instructions
 
 * Go to the issues list for this repository and create a new issue
 * Use the following tags -
-    * Tag bugs with 'bug'
+    * Tag bugs in existing functionality with 'bug'
     * Add 'blocking' tag for anything that is super important to fix. We will address these issues with the highest priority.
     * Features that you need but are not currently supported should be tagged with 'feature request'. Please do not tag these as bugs. 
 
