@@ -13,7 +13,7 @@ Create New Issue
 Track Issue Status 
 ------------
 
-**We will triage reported issues every week, except blocking issues, which will be addressed within 24 hours.** We will update the issue frequently with latest status, so you will be constantly aware of what is happening. 
+**We will triage issues within 24 hours.** We will update the issue frequently with latest status, so you will be constantly aware of what is happening.  Please note if you have a blocking issue so that we can escalate resolution priority. 
 
 We will update the issue with these tags as the bug goes through our process -
 * [triaged] (https://github.com/Shippable/support/issues?labels=triaged&page=1&state=open) after we have looked at the bug and decided on a course of action.
