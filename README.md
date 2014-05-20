@@ -17,7 +17,6 @@ Track Issue Status
 
 We will update the issue with these tags as the bug goes through our process -
 * [triaged] (https://github.com/Shippable/support/issues?labels=triaged&page=1&state=open) after we have looked at the bug and decided on a course of action.
-* [planned] (https://github.com/Shippable/support/issues?labels=planned&page=1&state=open) when the bug or feature request is accepted into a milestone.
 * [in progress] (https://github.com/Shippable/support/issues?labels=in+progress&page=1&state=open) when it is actually assigned to an engineer. 
 * [deployed] (https://github.com/Shippable/support/issues?labels=deployed&page=1&state=open) when code changes are complete and deployed into production.
 
