@@ -1,7 +1,7 @@
 Shippable Support
 =================
 
-This repository tracks bugs and feature requests for Shippable's CI/CD cloud service.
+This repository tracks [bugs and feature requests] (https://github.com/Shippable/support/issues?state=open) for Shippable's CI/CD cloud service.
 
 Create New Issue 
 ------------
