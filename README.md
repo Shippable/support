@@ -6,8 +6,9 @@ This repository tracks [bugs and feature requests] (https://github.com/Shippable
 Create New Issue 
 ------------
 
-* Please try to describe the issue with as many screenshots and details as possible
 * Go to the [issues list] (https://github.com/Shippable/support/issues?state=open) and create a new issue
+* Please try to describe the issue with as many screenshots and details as possible
+* For bugs, don't forget to include - github/bitbucket username of the account which enabled the repository, and shippable.yml + any scripts called from the yml.
 
 
 Track Issue Status 
