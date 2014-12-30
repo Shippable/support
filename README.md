@@ -3,6 +3,8 @@ Shippable Support
 
 This repository tracks [bugs and feature requests] (https://github.com/Shippable/support/issues?state=open) for Shippable's docker based continuous integration and deployment platform.
 
+If you are seeing issues pulling or pushing to docker hub, please check if docker hub is experiencing problems before opening a support issue - https://status.docker.com/pages/history/533c6539221ae15e3f000031
+
 Create New Issue 
 ------------
 
