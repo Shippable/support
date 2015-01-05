@@ -1,7 +1,6 @@
 Service Status
 ===============
-Docker hub is currently down and this is resulting in build failures. We are actively working on it. Thank you for your patience.
-You can finee more info here https://status.docker.com/
+[Jan 5th 2015 10:49am] Docker hub is currently down and this is resulting in build failures. We are actively working on it. Thank you for your patience. You can find more info here https://status.docker.com/
 
 Shippable Support
 =================
