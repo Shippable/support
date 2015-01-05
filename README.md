@@ -1,5 +1,7 @@
 Service Status
 ===============
+[Jan 5th 2015 11:21am] Docker hub is fully operatiional and Shippable builds are running. Sorry for the inconvenience.
+
 [Jan 5th 2015 10:49am] Docker hub is currently down and this is resulting in build failures. We are actively working on it. Thank you for your patience. You can find more info here https://status.docker.com/
 
 Shippable Support
