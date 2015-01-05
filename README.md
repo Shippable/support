@@ -1,3 +1,7 @@
+Service Status
+===============
+Docker hub is currently down and this is resulting in build failures. We are actively working on it. Thank you for your patience.
+
 Shippable Support
 =================
 
