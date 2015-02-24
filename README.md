@@ -1,6 +1,6 @@
 Service Status
 ===============
-[Feb 23rd 2015 13:19 UTC] Docker hub is currently down and this is resulting in build failures. You can find more info here https://status.docker.com/
+[Feb 24th 2015 04:45 UTC] We had an issue with one of our message processors which caused builds to be delayed. This has been corrected and builds are now running normally.
 
 Shippable Support
 =================
