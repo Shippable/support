@@ -1,6 +1,6 @@
 Service Status
 ===============
-[Feb 24th 2015 04:45 UTC] We had an issue with one of our message processors which caused builds to be delayed. This has been corrected and builds are now running normally.
+Everything is up and running as expected.
 
 Shippable Support
 =================
@@ -15,6 +15,7 @@ Create New Issue
 * Go to the [issues list] (https://github.com/Shippable/support/issues?state=open) and create a new issue
 * Please try to describe the issue with as many screenshots and details as possible
 * For bugs, don't forget to include - github/bitbucket username of the account which enabled the repository, and shippable.yml + any scripts called from the yml.
+* If your issue is about a build failure, please include a link to a failed build.
 
 
 Track Issue Status 
