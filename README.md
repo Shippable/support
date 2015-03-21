@@ -1,6 +1,6 @@
 Service Status
 ===============
-Builds are failing due to an expired cert on index.docker.io . We've escalated with the docker team and will provide an update as soon as this issue is fixed.
+1/20/2015 9pm PST: Builds are failing due to an expired cert on index.docker.io . We've escalated with the docker team and will provide an update as soon as this issue is fixed.
 
 Shippable Support
 =================
