@@ -1,6 +1,8 @@
 Service Status
 ===============
-Everything is running normally.
+We are currently experiencing issues with our docker integration and have our team hard at work fixing the issues.
+
+Thanks for your patience.
 
 Shippable Support
 =================
