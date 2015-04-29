@@ -3,7 +3,6 @@ Service Status
 We are currently experiencing issues with:
 
 * builds using custom images on dedicated hosts
-* builds hanging after the initial pull  
 
 We are working on a fix and expect it to be fixed in a few hours.
 
