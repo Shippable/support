@@ -1,12 +1,6 @@
 Service Status
 ===============
-We are currently experiencing issues with:
-
-* builds using custom images on dedicated hosts
-
-We are working on a fix and expect it to be fixed in a few hours.
-
-Thanks for your patience.
+Eveything is up and working as expected.
 
 Shippable Support
 =================
