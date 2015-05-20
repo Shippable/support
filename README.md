@@ -1,6 +1,6 @@
 Service Status
 ===============
-Eveything is up and working as expected.
+Please check our [Twitter Feed](https://twitter.com/BeShippable) for latest service status updates, important changes, and new feature announcements.
 
 Shippable Support
 =================
