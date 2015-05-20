@@ -1,6 +1,6 @@
 Service Status
 ===============
-Please follow us on [Twitter Feed](https://twitter.com/BeShippable) for latest service status updates, important changes, and new feature announcements.
+Please [follow us on Twitter](https://twitter.com/BeShippable) for latest service status updates, important changes, and new feature announcements.
 
 Shippable Support
 =================
