@@ -2,6 +2,18 @@ Service Status
 ===============
 Please [follow us on Twitter](https://twitter.com/BeShippable) for latest service status updates, important changes, and new feature announcements.
 
+Known Issues
+===============
+**SSH Keys Reset due to a bug:** There was a bug introduced on 11 Aug 2015 that caused the subscription SSH keys used for deployment and encryption to be reset.    
+
+***Impact:***     
+1. All projects that required Shippable to be authenticated by any provider during any part of the build workflow will need to reset their Shippable SSH keys at the provider.     
+2. If you are using encrypted variables, this will also break since we use the SSH keys to encrypt. You will need to re-encrypt the keys and update the YML.   
+
+***How to fix:*** Go to your Subscription -> Settings. Copy the Deployment Key there and use that in the appropriate section within your provider account. For instance, if you are using Github and have multiple projects in Shippable, you will need to reset the SSH keys under your Profile->Settings. 
+
+Please contact us at support@shippable.com if you have any ```Authentication or Permission Denied``` errors in your builds and the solution above does not work. Our sincere apologies for the inconvenience.
+
 Shippable Support
 =================
 
