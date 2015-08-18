@@ -12,7 +12,7 @@ Known Issues
 
 ***How to fix:*** Go to your Subscription -> Settings. Copy the Deployment Key there and use that in the appropriate section within your provider account. For instance, if you are using Github and have multiple projects in Shippable, you will need to reset the SSH keys under your Profile->Settings. 
 
-**Console logs older than 48 hours are not available:** We recently ran into DB out of space issues and had to delete console logs older than 21 days. We have restored all logs post Aug 16, 2015. If you need older logs, please send us an email at support@shippable.com
+**Console logs older than Aug 16, 2015 are not available:** We recently ran into DB out of space issues and had to delete console logs older than 21 days. We have restored all logs post Aug 16, 2015. If you need older logs, please send us an email at support@shippable.com
 
 Please contact us at support@shippable.com if you have any ```Authentication or Permission Denied``` errors in your builds and the solution above does not work. Our sincere apologies for the inconvenience.
 
