@@ -8,11 +8,11 @@ Before opening a new Support Issue:
 
 * Please [follow us on Twitter](https://twitter.com/BeShippable) for latest service updates, important changes, and new feature announcements.
 * If you are seeing issues pulling or pushing to docker hub, please check if [docker hub is experiencing problems](https://status.docker.com/pages/history/533c6539221ae15e3f000031) before opening a support issue.
-* List with known issues:
+* Known issues:
 
-- Builds fail with `alerts/errors/failed to find yml file`, a `shippable.yml` needs to be created. An example for [reference](http://docs.shippable.com/ci_configure/#shippableyml-structure).
-- Builds fail with `alerts/errors/invalid yml format`, validate your `shippable.yml` using [YAML Lint] (http://www.yamllint.com/) or [YAML Online Parser](http://yaml-online-parser.appspot.com/).
-- Builds fail with `git_sync\Host verification key failed`, refer to [Tip 5 for a successful migration](http://blog.shippable.com/5-tips-for-a-successful-migration).
+  - Builds fail with `alerts/errors/failed to find yml file`, a `shippable.yml` needs to be created. An example for [reference](http://docs.shippable.com/ci_configure/#shippableyml-structure).
+  - Builds fail with `alerts/errors/invalid yml format`, validate your `shippable.yml` using [YAML Lint] (http://www.yamllint.com/) or [YAML Online Parser](http://yaml-online-parser.appspot.com/).
+  - Builds fail with `git_sync\Host verification key failed`, refer to [Tip 5 for a successful migration](http://blog.shippable.com/5-tips-for-a-successful-migration).
 
 Open a new Support Issue:
 -------------------------
