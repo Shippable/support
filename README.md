@@ -12,13 +12,28 @@ Before opening a new Support Issue:
 
   - Documented [CI FAQs](http://docs.shippable.com/ci_faq/) and [Pipelines FAQs](http://docs.shippable.com/pipelines_faq/).
   - Create a `shippable.yml` for the error shown below. An example for [reference](http://docs.shippable.com/ci_configure/#shippableyml-structure).
-<img src="../images/error_missing_yml.png" alt="Missing yml" style="width:500px;"/>
+ ```
+    Alerts
+        Errors
+               failed to find shippable yml file
+ ```
 
   - Validate your `shippable.yml` using [YAML Lint] (http://www.yamllint.com/) or [YAML Online Parser](http://yaml-online-parser.appspot.com/) for the error shown below.
-<img src="../images/error_bad_yml.png" alt="Missing yml" style="width:500px;"/>
+  ```
+  Alerts
+      Errors
+             Bad YML data in build.ci. Only strings are allowed
+  ```
 
   - Refer to [Tip 5 for a successful migration](http://blog.shippable.com/5-tips-for-a-successful-migration) for the error shown below.
-<img src="../images/error_hostkey_verification.png" alt="Missing yml" style="width:500px;"/>
+  ```
+  Host key verification failed.
+  fatal: Could not read from remote repository.
+
+  Please make sure you have the correct access rights
+  and the repository exists.
+  ```
+
 
 
 Open a new Support Issue:
