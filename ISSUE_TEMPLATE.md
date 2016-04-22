@@ -8,5 +8,4 @@
 NOTE: If you are experiencing a build failure, please include:
 
 - Link to the build failure
-- `shippable.yml` (optional, would really help expedite troubleshooting)
 - Scripts called from the yml (optional)
