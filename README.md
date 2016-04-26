@@ -14,15 +14,15 @@ Before opening a new Support Issue:
   - Create a `shippable.yml` for the error shown below. An example for
   [reference](http://docs.shippable.com/ci_configure/#shippableyml-structure).
 
-![Missing yml](https://github.com/Shippable/support/tree/master/images/error_missing_yml.png)
+![Missing yml](https://raw.githubusercontent.com/Shippable/support/master/images/error_missing_yml.png)
 
   - Validate your `shippable.yml` using [YAML Lint] (http://www.yamllint.com/) or [YAML Online Parser](http://yaml-online-parser.appspot.com/) for the error shown below.
 
-![Bad yml](https://github.com/Shippable/support/tree/master/images/error_bad_yml.png)
+![Bad yml](https://raw.githubusercontent.com/Shippable/support/master/images/error_bad_yml.png)
 
   - Refer to [Tip 5 for a successful migration](http://blog.shippable.com/5-tips-for-a-successful-migration) for the error shown below.
 
-![Hostkey Verification](https://github.com/Shippable/support/tree/master/images/error_hostkey_verification.png)
+![Hostkey Verification](https://raw.githubusercontent.com/Shippable/support/master/images/error_hostkey_verification.png)
 
 Open a new Support Issue:
 -------------------------
