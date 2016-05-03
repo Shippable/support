@@ -6,7 +6,7 @@ This repository tracks [bugs and feature requests] (https://github.com/Shippable
 Before opening a new Support Issue:
 -----------------------------------
 
-* Please [follow us on Twitter](https://twitter.com/BeShippable) for latest service updates, important changes, and new feature announcements.
+* Please check the [latest operational status](http://status.shippable.com) for Shippable and related 3rd party services. In addition, [follow us on Twitter](https://twitter.com/BeShippable) for latest service updates, important changes, and new feature announcements.
 * If you are seeing issues pulling or pushing to docker hub, please check if [docker hub is experiencing problems](https://status.docker.com/pages/history/533c6539221ae15e3f000031) before opening a support issue.
 * Troubleshooting common issues:
 
