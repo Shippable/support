@@ -10,9 +10,9 @@ Before opening a new Support Issue:
 * If you are seeing issues pulling or pushing to docker hub, please check if [docker hub is experiencing problems](https://status.docker.com/pages/history/533c6539221ae15e3f000031) before opening a support issue.
 * Troubleshooting common issues:
 
-  - Documented [CI FAQs](http://docs.shippable.com/ci_faq/) and [Pipelines FAQs](http://docs.shippable.com/pipelines_faq/).
+  - Documented [FAQs](http://docs.shippable.com/faq/) and [Troubleshooting CI](http://docs.shippable.com/ci/troubleshoot/).
   - Create a `shippable.yml` for the error shown below. An example for
-  [reference](http://docs.shippable.com/ci_configure/#shippableyml-structure).
+  [reference](http://docs.shippable.com/ci/shippableyml/).
 
 ![Missing yml](https://raw.githubusercontent.com/Shippable/support/master/images/error_missing_yml.png)
 
