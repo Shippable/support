@@ -16,7 +16,7 @@ Before opening a new Support Issue:
 
 ![Missing yml](https://raw.githubusercontent.com/Shippable/support/master/images/error_missing_yml.png)
 
-  - Validate your `shippable.yml` using [YAML Lint] (http://www.yamllint.com/) or [YAML Online Parser](http://yaml-online-parser.appspot.com/) for the error shown below.
+  - Validate your `shippable.yml` using [YAML Lint](http://www.yamllint.com/) or [YAML Online Parser](http://yaml-online-parser.appspot.com/) for the error shown below.
 
 ![Bad yml](https://raw.githubusercontent.com/Shippable/support/master/images/error_bad_yml.png)
 
@@ -27,7 +27,7 @@ Before opening a new Support Issue:
 Open a new Support Issue:
 -------------------------
 
-* Go to the [issues list] (https://github.com/Shippable/support/issues?state=open) and create a new issue by filling out the [New Issue Template](https://github.com/Shippable/support/issues/new).
+* Go to the [issues list](https://github.com/Shippable/support/issues?state=open) and create a new issue by filling out the [New Issue Template](https://github.com/Shippable/support/issues/new).
 * The following is needed to expedite the resolution of your issue:
 
     - Describe the issue with as many details as possible.
