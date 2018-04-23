@@ -1,7 +1,9 @@
 Shippable Support
 =================
 
-This repository tracks [bugs and feature requests](https://github.com/Shippable/support/issues?state=open) for Shippable's docker based continuous integration and deployment platform. To open a new support issue, click on the Issues tab and then the `New Issue` button.
+This repository tracks [bugs and feature requests](https://github.com/Shippable/support/issues?state=open) for Shippable's Docker based continuous delivery and devops platform. [Click here to log into Shippable](https://app.shippable.com] 
+
+To open a new support issue, click on the Issues tab and then the `New Issue` button.
 
 Before opening a new Support Issue:
 -----------------------------------
